@@ -8,7 +8,17 @@ public class UnitTest1
     public void ItemTest()
     {
         Item item = new("testItem");
-
         Assert.Equal("testItem", item.Name);
+    }
+
+    [Fact]
+    public void AddCartItemTest()
+    {
+        Item item = new("testItem");
+        Cart cart = new Cart(); 
+
+        string actualOutput = cart.addItem(item);
+        string expectedOutput = "Item: testItem added";  
+        Assert.Equal(expectedOutput, actualOutput);
     }
 }
