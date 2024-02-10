@@ -7,14 +7,14 @@ public class UnitTest1
     [Fact]
     public void ItemTest()
     {
-        Item item = new("testItem");
+        Item item = new("testItem", 2, 50);
         Assert.Equal("testItem", item.Name);
     }
 
     [Fact]
     public void AddCartItemTest()
     {
-        Item item = new("testItem");
+        Item item = new("testItem", 2, 50);
         Cart cart = new Cart(); 
 
         string actualOutput = cart.addItem(item);
