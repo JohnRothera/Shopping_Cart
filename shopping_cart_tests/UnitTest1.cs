@@ -1,21 +1,14 @@
+using shopping_cart_github;
+
 namespace shopping_cart_tests;
 
 public class UnitTest1
 {
     [Fact]
-    public void PassingTest()
+    public void ItemTest()
     {
-        Assert.Equal(4, Add(2, 2));
-    }
+        Item item = new("testItem");
 
-    [Fact]
-    public void FailingTest()
-    {
-        Assert.Equal(4, Add(2, 2));
-    }
-
-    int Add(int x, int y)
-    {
-        return x + y;
+        Assert.Equal("testItem", item.Name);
     }
 }

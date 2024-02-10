@@ -87,8 +87,6 @@
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.csproj.AssemblyReference.cache
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.GeneratedMSBuildEditorConfig.editorconfig
-/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.AssemblyInfoInputs.cache
-/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.AssemblyInfo.cs
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.csproj.CoreCompileInputs.cache
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.csproj.CopyComplete
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.dll
@@ -96,3 +94,10 @@
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.pdb
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.genruntimeconfig.cache
 /Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/ref/shopping_cart_tests.dll
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/CoverletSourceRootsMapping_shopping_cart_tests
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/src.deps.json
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/src.runtimeconfig.json
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/src
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/src.dll
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/bin/Debug/net8.0/src.pdb
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/shopping_cart_tests/obj/Debug/net8.0/shopping_cart_tests.sourcelink.json
