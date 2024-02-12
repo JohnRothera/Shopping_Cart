@@ -1,0 +1,6 @@
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.csproj.AssemblyReference.cache
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.AssemblyInfoInputs.cache
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.AssemblyInfo.cs
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.csproj.CoreCompileInputs.cache
+/Users/johnrothera/Desktop/Github/Learning-things/shopping-cart-github/obj/Debug/net8.0/shopping-cart-github.sourcelink.json
